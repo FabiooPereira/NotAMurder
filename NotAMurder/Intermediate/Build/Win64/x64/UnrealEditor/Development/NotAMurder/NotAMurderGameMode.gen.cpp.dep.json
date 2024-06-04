@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marcu\\documents\\unreal projects\\notamurder\\intermediate\\build\\win64\\unrealeditor\\inc\\notamurder\\uht\\notamurdergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marcu\\documents\\unreal projects\\notamurder\\intermediate\\build\\win64\\x64\\notamurdereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marcu\\documents\\unreal projects\\notamurder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\notamurder\\definitions.notamurder.h",
+            "c:\\users\\marcu\\documents\\unreal projects\\notamurder\\source\\notamurder\\notamurdergamemode.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\marcu\\documents\\unreal projects\\notamurder\\intermediate\\build\\win64\\unrealeditor\\inc\\notamurder\\uht\\notamurdergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

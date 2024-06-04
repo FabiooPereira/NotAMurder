@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NotAMurder.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NotAMurder.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NotAMurderEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NotAMurder">
+      <UniqueIdentifier>{1C82D00C-E9B5-3E0B-B549-D3FB8C59EDE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NotAMurder\NotAMurder.Build.cs">
+      <Filter>Source\NotAMurder</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NotAMurder\NotAMurder.cpp">
+      <Filter>Source\NotAMurder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NotAMurder\NotAMurder.h">
+      <Filter>Source\NotAMurder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NotAMurder\NotAMurderCharacter.cpp">
+      <Filter>Source\NotAMurder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NotAMurder\NotAMurderCharacter.h">
+      <Filter>Source\NotAMurder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NotAMurder\NotAMurderGameMode.cpp">
+      <Filter>Source\NotAMurder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NotAMurder\NotAMurderGameMode.h">
+      <Filter>Source\NotAMurder</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

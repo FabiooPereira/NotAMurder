@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NotAMurder",
+			"Path": "..\\Source\\NotAMurder.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NotAMurderEditor",
+			"Path": "..\\Source\\NotAMurderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
