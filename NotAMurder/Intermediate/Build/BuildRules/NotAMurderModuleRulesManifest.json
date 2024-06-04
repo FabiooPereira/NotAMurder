@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\marcu\\Documents\\Unreal Projects\\NotAMurder\\Source\\NotAMurder\\NotAMurder.Build.cs",
-		"C:\\Users\\marcu\\Documents\\Unreal Projects\\NotAMurder\\Source\\NotAMurder.Target.cs",
-		"C:\\Users\\marcu\\Documents\\Unreal Projects\\NotAMurder\\Source\\NotAMurderEditor.Target.cs"
+		"C:\\Plugg\\Rail_V2\\NotAMurder\\NotAMurder\\Source\\NotAMurder\\NotAMurder.Build.cs",
+		"C:\\Plugg\\Rail_V2\\NotAMurder\\NotAMurder\\Source\\NotAMurder.Target.cs",
+		"C:\\Plugg\\Rail_V2\\NotAMurder\\NotAMurder\\Source\\NotAMurderEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.2"
 }
